@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyToDoApp</string>
+
+    <string name="str_postcount">No more todos</string>
+    <string name="str_greeting">Welcome user !</string>
+    <string name="str_todo_item_title">Buy bread</string>
+    <string name="str_todo_item_desc">Buy bread</string>
+    <string name="str_todo_item_time">Tommowrrow</string>
+</resources>
